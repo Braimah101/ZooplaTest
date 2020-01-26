@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53e3d692-04fe-4efc-97b1-4e6a7854010c" name="Default Changelist" comment="" />
+    <list default="true" id="53e3d692-04fe-4efc-97b1-4e6a7854010c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/uk/zoopla/features/CustomerCanSearchForPropertyForSale.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -15,6 +22,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1WwYm55YfwhX5NiU2nqyePDDwEE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,8 +32,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -48,6 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580062279727</updated>
       <workItem from="1580062282805" duration="3036000" />
+      <workItem from="1580065439470" duration="4188000" />
     </task>
     <servers />
   </component>
@@ -55,6 +68,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="426" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580069158386">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1580069158386" />
+    <state x="393" y="8" key="CommitChangelistDialog2" timestamp="1580069895909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580069895909" />
     <state width="1342" height="195" key="GridCell.Tab.0.bottom" timestamp="1580065320196">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -71,6 +92,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1342" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580065320196" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1580069196350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580069196350" />
     <state x="470" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1580065439672">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
